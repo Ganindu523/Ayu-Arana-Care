@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Chamod-Tharusha-Alwis/Ayu-Arana-Care.git](https://github.com/Chamod-Tharusha-Alwis/Ayu-Arana-Care.git)
+    git clone [gh repo clone Ganindu523/Ayu-Arana-Care]
     ```
 2.  **Navigate to the project directory:**
     ```sh
