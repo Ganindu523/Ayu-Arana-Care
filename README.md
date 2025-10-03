@@ -73,4 +73,4 @@ To get a local copy up and running, follow these simple steps.
 
 Ganindu Kalpaka Jayasundara - www.linkedin.com/in/ganindu-jayasundara-a5b9a5387
 
-Project Link: [https://github.com/Chamod-Tharusha-Alwis/Ayu-Arana-Care](https://github.com/Chamod-Tharusha-Alwis/Ayu-Arana-Care)
+Project Link: https://github.com/Ganindu523/Ayu-Arana-Care.git
